@@ -206,7 +206,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Lucii-666**
 - GitHub: [@Lucii-666](https://github.com/Lucii-666)
-- HackerRank: [Profile Link](https://www.hackerrank.com/profile/your_username)
+- HackerRank: [Profile Link](https://www.hackerrank.com/profile/ashutoshhjp1067)
 
 ## 📞 Contact
 
