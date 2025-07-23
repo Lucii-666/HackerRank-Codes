@@ -165,8 +165,8 @@ Contributions are welcome! If you'd like to contribute:
 
 ## 🏆 Goals & Milestones
 
-- [ ] Solve 50+ problems across different domains
-- [ ] Achieve 4-star rating in Problem Solving
+- [ ] Solve 500+ problems across different domains
+- [ ] Achieve 5-star rating in Problem Solving
 - [ ] Complete all basic algorithm challenges
 - [ ] Explore advanced data structure problems
 - [ ] Participate in HackerRank contests
