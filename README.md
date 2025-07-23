@@ -51,6 +51,7 @@ HackerRank-Codes/
 | Problem | Difficulty | Solution | Status |
 |---------|------------|----------|--------|
 | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations) | Easy | [Flatland_Space_Stations.cpp](Flatland_Space_Stations.cpp) | ✅ Complete |
+| [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/) | Medium | [Fraudulent_Activity_Notifications.cpp](Fraudulent_Activity_Notifications.cpp) | ✅ Complete |
 
 *More solutions will be added as I progress through different challenges.*
 
