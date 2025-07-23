@@ -173,11 +173,10 @@ Contributions are welcome! If you'd like to contribute:
 
 ## 📊 Statistics
 
-- **Total Problems**: 1
+- **Total Problems**: 2
 - **Easy**: 1
-- **Medium**: 0
+- **Medium**: 1
 - **Hard**: 0
-- **Success Rate**: 100%
 
 ## 🔧 Development Setup
 
