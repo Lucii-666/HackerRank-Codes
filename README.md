@@ -53,6 +53,7 @@ HackerRank-Codes/
 | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations) | Easy | [Flatland_Space_Stations.cpp](Flatland_Space_Stations.cpp) | ✅ Complete |
 | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/) | Medium | [Fraudulent_Activity_Notifications.cpp](Fraudulent_Activity_Notifications.cpp) | ✅ Complete |
 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/) | Easy | [Super_Reduced_String.cpp](Super_Reduced_String.cpp) | ✅ Complete |
+| [Two Characters](https://www.hackerrank.com/challenges/two-characters/) | Medium | [Two_Characters.cpp](Two_Characters.cpp) | ✅ Complete |
 
 *More solutions will be added as I progress through different challenges.*
 
@@ -174,9 +175,9 @@ Contributions are welcome! If you'd like to contribute:
 
 ## 📊 Statistics
 
-- **Total Problems**: 3
+- **Total Problems**: 4
 - **Easy**: 2
-- **Medium**: 1
+- **Medium**: 2
 - **Hard**: 0
 
 ## 🔧 Development Setup
