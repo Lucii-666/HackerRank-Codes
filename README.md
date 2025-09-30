@@ -54,7 +54,7 @@ HackerRank-Codes/
 | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications/) | Medium | [Fraudulent_Activity_Notifications.cpp](Fraudulent_Activity_Notifications.cpp) | ✅ Complete |
 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/) | Easy | [Super_Reduced_String.cpp](Super_Reduced_String.cpp) | ✅ Complete |
 | [Two Characters](https://www.hackerrank.com/challenges/two-characters/) | Medium | [Two_Characters.cpp](Two_Characters.cpp) | ✅ Complete |
-| [Apple and Oranges]([https://www.hackerrank.com/challenges/two-characters/]) | Easy | [Apple_Orange.cpp](Apple_Orange.cpp) | ✅ Complete |
+| [Apple and Oranges](https://www.hackerrank.com/challenges/apple-and-orange/) | Easy | [Apple_Orange.cpp](Apple_Orange.cpp) | ✅ Complete |
 
 *More solutions will be added as I progress through different challenges.*
 
